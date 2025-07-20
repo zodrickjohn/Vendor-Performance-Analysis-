@@ -1,8 +1,8 @@
-# 📊 Vendor Performance Analysis Project
+# <p align="center">📊 Vendor Performance Analysis Project</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-SQLite-blue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey?logo=pandas&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?logo=powerbi&logoColor=black" />
@@ -20,10 +20,9 @@ To evaluate vendor performance using real-world procurement and sales data. This
 
 ---
 
-<p align="center">## 🔁 Workflow Overview
+## 🔁 Workflow Overview
 
 ![workflow](./Project-flow-vendor.png)
-</p>
 
 ---
 
