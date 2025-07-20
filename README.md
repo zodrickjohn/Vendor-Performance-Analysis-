@@ -1,5 +1,14 @@
 # 📊 Vendor Performance Analysis Project
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey?logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-brightgreen?style=flat-square" />
+</p>
+
 > **Author**: Zodrick John  
 > **Institution**: UIET, Panjab University
 
@@ -11,9 +20,10 @@ To evaluate vendor performance using real-world procurement and sales data. This
 
 ---
 
-## 🔁 Workflow Overview
+<p align="center">## 🔁 Workflow Overview
 
 ![workflow](./Project-flow-vendor.png)
+</p>
 
 ---
 
