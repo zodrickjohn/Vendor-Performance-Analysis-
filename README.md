@@ -20,7 +20,7 @@ To evaluate vendor performance using real-world procurement and sales data. This
 
 ---
 
-## 🔁 Workflow Overview
+## 🔁 Project's Workflow
 
 ![workflow](./Project-flow-vendor.png)
 
@@ -78,4 +78,4 @@ To evaluate vendor performance using real-world procurement and sales data. This
 
 ---
 
-### **Read full project Report(pdf) here***
+![Read full project Report(pdf) here](https://drive.google.com/file/d/12w-29vZrvzvm-wGiKZiKXW0LRTOxfbAH/view?usp=sharing)
